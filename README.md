@@ -70,3 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # OnlineTicketFront
 # OnlineTicketFront
+
+Booking Seat Dashboard:
+
+![image](https://user-images.githubusercontent.com/57695012/216885233-5cb89d15-b38c-43f4-bd2f-6030677cb4d3.png)
